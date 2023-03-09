@@ -1,0 +1,31 @@
+.list-group-item h5{
+    padding-top: 10px;
+}
+
+.angka-1{
+    text-align: center;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    font-size: 1.5em;
+    line-height: 40px;
+    color: white;
+    border-radius: 50%;
+}
+.icon-travel{
+    text-align: end;
+    width: 50px;
+    /* background-color: yellowgreen; */
+}
+
+.column-contact{
+    max-width: 92vw;
+}
+
+.content-package .row .col-sm-3{
+    padding-bottom: 50px;
+}
+
+.nav-link{
+    padding: 5px 20px !important;
+}
